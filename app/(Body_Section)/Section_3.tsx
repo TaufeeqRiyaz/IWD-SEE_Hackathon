@@ -42,12 +42,14 @@ function Section_3() {
           id="Wecom-box"
           className=" px-[15px] py-[4px]  border my-[20px] border-[#7042f88b]  opacity-[0.9]  "
         >
+          <a href="mailto:taufeeqr.btech23@rvu.edu.in">
           <div
             id="Wecom-text"
             className=" text-[12px] 310:text-[15px] 370:text-auto"
           >
             Hire Me For Gig
           </div>
+          </a>
         </motion.div>
       </div>
       <div className=" absolute bottom-[80px] 500:bottom-[150px] px-[5px]  ">

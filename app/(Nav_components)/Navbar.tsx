@@ -20,7 +20,7 @@ function Navbar() {
            py-[10px] rounded-full "
           >
             <Course />
-            <Link href={"https://github.com/TaufeeqRiyaz?tab=repositories"} target="_blank" className="Nav_text">
+            <Link href={"https://github.com/TaufeeqRiyaz"} target="_blank" className="Nav_text">
               Projects
             </Link>
             <span className="Nav_text relative  ">
