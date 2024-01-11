@@ -1,19 +1,19 @@
 export const Skill_data: Skill_data[] = [
   {
     skill_name: "Html 5",
-    Image: "/html.png",
+    Image: "https://skillicons.dev/icons?i=html&theme=dark",
     width: 80,
     hight: 80,
   },
   {
     skill_name: "Css",
-    Image: "/css.png",
+    Image: "https://skillicons.dev/icons?i=css&theme=dark",
     width: 80,
     hight: 80,
   },
   {
     skill_name: "Java Script",
-    Image: "/js.png",
+    Image: "https://skillicons.dev/icons?i=js&theme=dark",
     width: 65,
     hight: 65,
   },
